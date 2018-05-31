@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ncrt_math_int64.cpp" />
+    <ClCompile Include="ncrt_memory.cpp" />
+    <ClCompile Include="application.cpp" />
+    <ClCompile Include="ncrt_math_float.cpp" />
+    <ClCompile Include="tests.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ncrt_memory.h" />
+    <ClInclude Include="application.h" />
+    <ClInclude Include="tests.h" />
+  </ItemGroup>
+</Project>
